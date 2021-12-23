@@ -1,0 +1,14 @@
+﻿<Window x:Class="Trofimov2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trofimov2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Height="40" Width="100" HorizontalAlignment="Right" Margin="0,0,20,0" Name="btnBack_click"/>
+        <Button Height="50" Width="200" HorizontalAlignment="Center" Margin="308,22,284,242" Name="btnInfAb_click"/>
+        <Button Height="50" Width="200" HorizontalAlignment="Center" Margin="308,90,284,174" Name="btn"/> 
+    </Grid>
+</Window>
